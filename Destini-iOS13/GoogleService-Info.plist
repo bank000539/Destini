@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>863864769232-m63nkreem1jc49us8bg223d9a75tbj01.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.863864769232-m63nkreem1jc49us8bg223d9a75tbj01</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAmA5ye_PH0xX-k6-tun8JY2RDEnNhFv78</string>
+	<key>GCM_SENDER_ID</key>
+	<string>863864769232</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.paiboon.Destini-Firebase</string>
+	<key>PROJECT_ID</key>
+	<string>fir-project-ios-378fc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-project-ios-378fc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:863864769232:ios:ad51188d4f8a48a8b6ecd5</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-project-ios-378fc-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
